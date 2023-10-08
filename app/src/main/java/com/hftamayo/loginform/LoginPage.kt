@@ -24,7 +24,7 @@ fun LoginPage() {
 
     Column(
         modifier = Modifier.fillMaxSize().background(
-            brush = Brush.linearGradient(listOf(Color(0xfFB7BA2)))
+            brush = Brush.linearGradient(listOf(Color(0xfFB7BA2), Color(0xfffCE043)))
         ),
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally){
